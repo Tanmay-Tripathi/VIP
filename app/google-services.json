@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "712506697488",
+    "project_id": "idolo-b2d31",
+    "storage_bucket": "idolo-b2d31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:712506697488:android:f9efcb4b1a9f844f40a795",
+        "android_client_info": {
+          "package_name": "com.practice.idolo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "712506697488-u2f1c45805nlo35tvsvo5rf7g1t86o0u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.practice.idolo",
+            "certificate_hash": "aa0c277e3424ce053191d3d77a29f1e81a9bfa18"
+          }
+        },
+        {
+          "client_id": "712506697488-6r5e15dm364vsj2rugr5ea7oi71sdt8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCk8SXb8bBg3E6OfoItciYjs8bzYE8y6BM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "712506697488-6r5e15dm364vsj2rugr5ea7oi71sdt8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
